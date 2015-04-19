@@ -17,7 +17,7 @@ define("DB_DRIVER", "mysql");
 define("DB_HOSTNAME", "localhost"); 
 define("DB_USERNAME", "root");
 define("DB_PASSWORD", "");
-define("DB_DATABASE", "tb.dbungleedeal");
+define("DB_DATABASE", "db.dbname");
 define("DB_PREFIX", "gb_");
 
 
