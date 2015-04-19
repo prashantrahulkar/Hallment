@@ -7,8 +7,8 @@
 
 
 define("PROJECTDIR","something");
-define("ROOTDIR","D:/ConcourseSols/SourceCode/PHP-Source-Code/Hallment");
-define("DIR_DATABASE","D:/ConcourseSols/SourceCode/PHP-Source-Code/Hallment/webapisrc/lib/database/");
+define("ROOTDIR","D:/SourceCode/PHP-Source-Code/Hallment");
+define("DIR_DATABASE","D:/SourceCode/PHP-Source-Code/Hallment/webapisrc/lib/database/");
 
 define("WEBDIR","something");
 define("XMLCONF", ROOTDIR."/"."api/web-config.xml");
