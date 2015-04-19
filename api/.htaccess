@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^(.*)$ hallment.php?rqstring=$1 [L,QSA]

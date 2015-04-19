@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<restapiinfo>
+		<title>Hallmet</title>
+		<desc>The REST framework API</desc>	
+	</restapiinfo>
+	<restconf>
+		<request xml:id="User">
+				<responseObject 
+					model = "LoginAuthentication"
+					add = "AddUser"
+					view = "GetUser"
+					edit = "EditUser"
+					delete = "RemoveUser"
+				/>
+		</request>
+	</restconf>
+</root>
